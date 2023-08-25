@@ -1,0 +1,7 @@
+Visit_Reason,Visits,Mean_Duration,Max_Duration,Min_Duration
+Headache,1723,15.3,25,5
+Allergy,1679,20.0,30,10
+Routine Checkup,1673,22.6,30,15
+Injury,1664,44.8,60,30
+Cough,1635,19.8,30,10
+Fever,1610,30.2,45,15
