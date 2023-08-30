@@ -1,601 +1,601 @@
-,Patient,Visit_Reason,Count
-501,Ivy Jones,Headache,30
-478,Hannah Wilson,Injury,29
-228,David Williams,Allergy,28
-41,Alice Smith,Routine Checkup,28
-527,Ivy Taylor,Routine Checkup,28
-452,Hannah Moore,Fever,27
-567,Jack Miller,Headache,27
-390,George Moore,Allergy,27
-29,Alice Miller,Routine Checkup,27
-186,David Davis,Allergy,27
-465,Hannah Taylor,Headache,26
-219,David Smith,Headache,26
-267,Emma Miller,Headache,25
-214,David Moore,Injury,25
-305,Fiona Brown,Routine Checkup,25
-433,Hannah Johnson,Cough,25
-450,Hannah Moore,Allergy,25
-290,Emma Williams,Fever,25
-507,Ivy Miller,Headache,25
-165,Charlie Taylor,Headache,25
-131,Charlie Davis,Routine Checkup,25
-468,Hannah Williams,Allergy,25
-571,Jack Moore,Cough,25
-152,Charlie Moore,Fever,25
-409,George Williams,Cough,24
-381,George Jones,Headache,24
-551,Jack Davis,Routine Checkup,24
-189,David Davis,Headache,24
-184,David Brown,Injury,24
-103,Bob Taylor,Cough,24
-505,Ivy Miller,Cough,24
-564,Jack Miller,Allergy,24
-297,Emma Wilson,Headache,23
-54,Alice Wilson,Allergy,23
-299,Emma Wilson,Routine Checkup,23
-217,David Smith,Cough,23
-585,Jack Taylor,Headache,23
-350,Fiona Williams,Fever,23
-411,George Williams,Headache,23
-106,Bob Taylor,Injury,23
-547,Jack Davis,Cough,23
-38,Alice Smith,Fever,23
-485,Ivy Brown,Routine Checkup,23
-280,Emma Smith,Injury,23
-156,Charlie Smith,Allergy,23
-36,Alice Smith,Allergy,23
-162,Charlie Taylor,Allergy,22
-133,Charlie Johnson,Cough,22
-354,Fiona Wilson,Allergy,22
-84,Bob Miller,Allergy,22
-64,Bob Brown,Injury,22
-270,Emma Moore,Allergy,22
-286,Emma Taylor,Injury,22
-278,Emma Smith,Fever,22
-148,Charlie Miller,Injury,22
-437,Hannah Johnson,Routine Checkup,22
-533,Ivy Williams,Routine Checkup,22
-206,David Miller,Fever,22
-365,George Brown,Routine Checkup,22
-460,Hannah Smith,Injury,22
-403,George Taylor,Cough,22
-0,Alice Brown,Allergy,22
-27,Alice Miller,Headache,22
-37,Alice Smith,Cough,22
-260,Emma Jones,Fever,22
-21,Alice Jones,Headache,22
-50,Alice Williams,Fever,22
-583,Jack Taylor,Cough,22
-429,Hannah Davis,Headache,21
-251,Emma Davis,Routine Checkup,21
-541,Jack Brown,Cough,21
-582,Jack Taylor,Allergy,21
-371,George Davis,Routine Checkup,21
-160,Charlie Smith,Injury,21
-293,Emma Williams,Routine Checkup,21
-565,Jack Miller,Cough,21
-490,Ivy Davis,Injury,21
-517,Ivy Smith,Cough,21
-562,Jack Jones,Injury,21
-346,Fiona Taylor,Injury,21
-6,Alice Davis,Allergy,21
-586,Jack Taylor,Injury,21
-427,Hannah Davis,Cough,21
-122,Charlie Brown,Fever,21
-456,Hannah Smith,Allergy,21
-171,Charlie Williams,Headache,21
-285,Emma Taylor,Headache,21
-63,Bob Brown,Headache,21
-67,Bob Davis,Cough,21
-185,David Brown,Routine Checkup,21
-438,Hannah Jones,Allergy,21
-473,Hannah Williams,Routine Checkup,21
-149,Charlie Miller,Routine Checkup,21
-14,Alice Johnson,Fever,21
-247,Emma Davis,Cough,21
-137,Charlie Johnson,Routine Checkup,21
-15,Alice Johnson,Headache,21
-405,George Taylor,Headache,21
-139,Charlie Jones,Cough,21
-364,George Brown,Injury,21
-413,George Williams,Routine Checkup,21
-578,Jack Smith,Fever,21
-154,Charlie Moore,Injury,21
-334,Fiona Moore,Injury,21
-338,Fiona Smith,Fever,20
-32,Alice Moore,Fever,20
-493,Ivy Johnson,Cough,20
-4,Alice Brown,Injury,20
-379,George Jones,Cough,20
-569,Jack Miller,Routine Checkup,20
-254,Emma Johnson,Fever,20
-486,Ivy Davis,Allergy,20
-115,Bob Wilson,Cough,20
-158,Charlie Smith,Fever,20
-543,Jack Brown,Headache,20
-287,Emma Taylor,Routine Checkup,20
-57,Alice Wilson,Headache,20
-445,Hannah Miller,Cough,20
-216,David Smith,Allergy,20
-13,Alice Johnson,Cough,20
-449,Hannah Miller,Routine Checkup,20
-554,Jack Johnson,Fever,20
-256,Emma Johnson,Injury,20
-198,David Jones,Allergy,20
-153,Charlie Moore,Headache,20
-177,Charlie Wilson,Headache,20
-104,Bob Taylor,Fever,20
-454,Hannah Moore,Injury,20
-170,Charlie Williams,Fever,20
-351,Fiona Williams,Headache,20
-69,Bob Davis,Headache,20
-257,Emma Johnson,Routine Checkup,20
-341,Fiona Smith,Routine Checkup,20
-200,David Jones,Fever,19
-262,Emma Jones,Injury,19
-264,Emma Miller,Allergy,19
-439,Hannah Jones,Cough,19
-155,Charlie Moore,Routine Checkup,19
-208,David Miller,Injury,19
-376,George Johnson,Injury,19
-447,Hannah Miller,Headache,19
-167,Charlie Taylor,Routine Checkup,19
-183,David Brown,Headache,19
-181,David Brown,Cough,19
-237,David Wilson,Headache,19
-462,Hannah Taylor,Allergy,19
-164,Charlie Taylor,Fever,19
-222,David Taylor,Allergy,19
-389,George Miller,Routine Checkup,19
-387,George Miller,Headache,19
-225,David Taylor,Headache,19
-388,George Miller,Injury,19
-273,Emma Moore,Headache,19
-250,Emma Davis,Injury,19
-476,Hannah Wilson,Fever,19
-83,Bob Jones,Routine Checkup,19
-40,Alice Smith,Injury,19
-95,Bob Moore,Routine Checkup,19
-525,Ivy Taylor,Headache,19
-43,Alice Taylor,Cough,19
-526,Ivy Taylor,Injury,19
-557,Jack Johnson,Routine Checkup,19
-82,Bob Jones,Injury,19
-510,Ivy Moore,Allergy,19
-47,Alice Taylor,Routine Checkup,19
-528,Ivy Williams,Allergy,19
-52,Alice Williams,Injury,19
-78,Bob Jones,Allergy,19
-552,Jack Johnson,Allergy,19
-306,Fiona Davis,Allergy,19
-107,Bob Taylor,Routine Checkup,19
-97,Bob Smith,Cough,19
-288,Emma Williams,Allergy,19
-116,Bob Wilson,Fever,19
-126,Charlie Davis,Allergy,19
-592,Jack Williams,Injury,19
-252,Emma Johnson,Allergy,18
-375,George Johnson,Headache,18
-421,Hannah Brown,Cough,18
-416,George Wilson,Fever,18
-3,Alice Brown,Headache,18
-593,Jack Williams,Routine Checkup,18
-53,Alice Williams,Routine Checkup,18
-540,Jack Brown,Allergy,18
-253,Emma Johnson,Cough,18
-245,Emma Brown,Routine Checkup,18
-244,Emma Brown,Injury,18
-70,Bob Davis,Injury,18
-48,Alice Williams,Allergy,18
-231,David Williams,Headache,18
-221,David Smith,Routine Checkup,18
-7,Alice Davis,Cough,18
-404,George Taylor,Fever,18
-561,Jack Jones,Headache,18
-590,Jack Williams,Fever,18
-317,Fiona Johnson,Routine Checkup,18
-42,Alice Taylor,Allergy,18
-378,George Jones,Allergy,18
-205,David Miller,Cough,18
-12,Alice Johnson,Allergy,18
-568,Jack Miller,Injury,18
-316,Fiona Johnson,Injury,18
-335,Fiona Moore,Routine Checkup,18
-395,George Moore,Routine Checkup,18
-538,Ivy Wilson,Injury,18
-202,David Jones,Injury,18
-518,Ivy Smith,Fever,18
-169,Charlie Williams,Cough,18
-96,Bob Smith,Allergy,18
-175,Charlie Wilson,Cough,18
-173,Charlie Williams,Routine Checkup,18
-109,Bob Williams,Cough,18
-110,Bob Williams,Fever,18
-111,Bob Williams,Headache,18
-489,Ivy Davis,Headache,18
-349,Fiona Williams,Cough,18
-323,Fiona Jones,Routine Checkup,18
-130,Charlie Davis,Injury,18
-159,Charlie Smith,Headache,18
-355,Fiona Wilson,Cough,18
-464,Hannah Taylor,Fever,18
-138,Charlie Jones,Allergy,18
-92,Bob Moore,Fever,18
-491,Ivy Davis,Routine Checkup,18
-87,Bob Miller,Headache,18
-266,Emma Miller,Fever,18
-141,Charlie Jones,Headache,18
-372,George Johnson,Allergy,18
-441,Hannah Jones,Headache,18
-536,Ivy Wilson,Fever,18
-303,Fiona Brown,Headache,18
-302,Fiona Brown,Fever,18
-344,Fiona Taylor,Fever,18
-268,Emma Miller,Injury,18
-197,David Johnson,Routine Checkup,18
-307,Fiona Davis,Cough,17
-327,Fiona Miller,Headache,17
-255,Emma Johnson,Headache,17
-283,Emma Taylor,Cough,17
-274,Emma Moore,Injury,17
-352,Fiona Williams,Injury,17
-331,Fiona Moore,Cough,17
-294,Emma Wilson,Allergy,17
-1,Alice Brown,Cough,17
-315,Fiona Johnson,Headache,17
-312,Fiona Johnson,Allergy,17
-308,Fiona Davis,Fever,17
-265,Emma Miller,Cough,17
-292,Emma Williams,Injury,17
-298,Emma Wilson,Injury,17
-342,Fiona Taylor,Allergy,17
-463,Hannah Taylor,Cough,17
-380,George Jones,Fever,17
-483,Ivy Brown,Headache,17
-129,Charlie Davis,Headache,17
-124,Charlie Brown,Injury,17
-494,Ivy Johnson,Fever,17
-112,Bob Williams,Injury,17
-105,Bob Taylor,Headache,17
-511,Ivy Moore,Cough,17
-520,Ivy Smith,Injury,17
-98,Bob Smith,Fever,17
-90,Bob Moore,Allergy,17
-89,Bob Miller,Routine Checkup,17
-88,Bob Miller,Injury,17
-85,Bob Miller,Cough,17
-81,Bob Jones,Headache,17
-79,Bob Jones,Cough,17
-77,Bob Johnson,Routine Checkup,17
-535,Ivy Wilson,Cough,17
-72,Bob Johnson,Allergy,17
-66,Bob Davis,Allergy,17
-542,Jack Brown,Fever,17
-51,Alice Williams,Headache,17
-579,Jack Smith,Headache,17
-22,Alice Jones,Injury,17
-11,Alice Davis,Routine Checkup,17
-10,Alice Davis,Injury,17
-595,Jack Wilson,Cough,17
-484,Ivy Brown,Injury,17
-114,Bob Wilson,Allergy,17
-207,David Miller,Headache,17
-392,George Moore,Fever,17
-226,David Taylor,Injury,17
-203,David Jones,Routine Checkup,17
-201,David Jones,Headache,17
-196,David Johnson,Injury,17
-453,Hannah Moore,Headache,17
-180,David Brown,Allergy,17
-242,Emma Brown,Fever,17
-467,Hannah Taylor,Routine Checkup,17
-243,Emma Brown,Headache,17
-475,Hannah Wilson,Cough,17
-218,David Smith,Fever,17
-588,Jack Williams,Allergy,16
-394,George Moore,Injury,16
-332,Fiona Moore,Fever,16
-410,George Williams,Fever,16
-581,Jack Smith,Routine Checkup,16
-397,George Smith,Cough,16
-576,Jack Smith,Allergy,16
-330,Fiona Moore,Allergy,16
-573,Jack Moore,Headache,16
-555,Jack Johnson,Headache,16
-544,Jack Brown,Injury,16
-481,Ivy Brown,Cough,16
-412,George Williams,Injury,16
-425,Hannah Brown,Routine Checkup,16
-531,Ivy Williams,Headache,16
-356,Fiona Wilson,Fever,16
-430,Hannah Davis,Injury,16
-442,Hannah Jones,Injury,16
-444,Hannah Miller,Allergy,16
-523,Ivy Taylor,Cough,16
-370,George Davis,Injury,16
-461,Hannah Smith,Routine Checkup,16
-368,George Davis,Fever,16
-509,Ivy Miller,Routine Checkup,16
-383,George Jones,Routine Checkup,16
-496,Ivy Johnson,Injury,16
-472,Hannah Williams,Injury,16
-326,Fiona Miller,Fever,16
-300,Fiona Brown,Allergy,16
-123,Charlie Brown,Headache,16
-276,Emma Smith,Allergy,16
-178,Charlie Wilson,Injury,16
-99,Bob Smith,Headache,16
-24,Alice Miller,Allergy,16
-190,David Davis,Injury,16
-25,Alice Miller,Cough,16
-49,Alice Williams,Cough,16
-71,Bob Davis,Routine Checkup,16
-277,Emma Smith,Cough,16
-65,Bob Brown,Routine Checkup,16
-176,Charlie Wilson,Fever,16
-31,Alice Moore,Cough,16
-34,Alice Moore,Injury,16
-229,David Williams,Cough,16
-59,Alice Wilson,Routine Checkup,16
-259,Emma Jones,Cough,16
-44,Alice Taylor,Fever,16
-45,Alice Taylor,Headache,16
-55,Alice Wilson,Cough,16
-20,Alice Jones,Fever,16
-74,Bob Johnson,Fever,16
-18,Alice Jones,Allergy,16
-127,Charlie Davis,Cough,16
-321,Fiona Jones,Headache,16
-157,Charlie Smith,Cough,16
-101,Bob Smith,Routine Checkup,16
-144,Charlie Miller,Allergy,16
-311,Fiona Davis,Routine Checkup,16
-102,Bob Taylor,Allergy,16
-134,Charlie Johnson,Fever,16
-100,Bob Smith,Injury,15
-135,Charlie Johnson,Headache,15
-224,David Taylor,Fever,15
-120,Charlie Brown,Allergy,15
-60,Bob Brown,Allergy,15
-482,Ivy Brown,Fever,15
-399,George Smith,Headache,15
-548,Jack Davis,Fever,15
-220,David Smith,Injury,15
-398,George Smith,Fever,15
-56,Alice Wilson,Fever,15
-234,David Wilson,Allergy,15
-393,George Moore,Headache,15
-132,Charlie Johnson,Allergy,15
-140,Charlie Jones,Fever,15
-418,George Wilson,Injury,15
-142,Charlie Jones,Injury,15
-118,Bob Wilson,Injury,15
-458,Hannah Smith,Fever,15
-168,Charlie Williams,Allergy,15
-161,Charlie Smith,Routine Checkup,15
-80,Bob Jones,Fever,15
-534,Ivy Wilson,Allergy,15
-466,Hannah Taylor,Injury,15
-432,Hannah Johnson,Allergy,15
-431,Hannah Davis,Routine Checkup,15
-146,Charlie Miller,Fever,15
-211,David Moore,Cough,15
-423,Hannah Brown,Headache,15
-422,Hannah Brown,Fever,15
-212,David Moore,Fever,15
-68,Bob Davis,Fever,15
-415,George Wilson,Cough,15
-391,George Moore,Cough,15
-408,George Williams,Allergy,15
-284,Emma Taylor,Fever,15
-35,Alice Moore,Routine Checkup,15
-572,Jack Moore,Fever,15
-361,George Brown,Cough,15
-360,George Brown,Allergy,15
-240,Emma Brown,Allergy,15
-337,Fiona Smith,Cough,15
-373,George Johnson,Cough,15
-374,George Johnson,Fever,15
-9,Alice Davis,Headache,15
-363,George Brown,Headache,15
-357,Fiona Wilson,Headache,15
-587,Jack Taylor,Routine Checkup,15
-319,Fiona Jones,Cough,15
-382,George Jones,Injury,15
-289,Emma Williams,Cough,15
-597,Jack Wilson,Headache,15
-563,Jack Jones,Routine Checkup,15
-281,Emma Smith,Routine Checkup,15
-443,Hannah Jones,Routine Checkup,14
-515,Ivy Moore,Routine Checkup,14
-304,Fiona Brown,Injury,14
-516,Ivy Smith,Allergy,14
-23,Alice Jones,Routine Checkup,14
-19,Alice Jones,Cough,14
-519,Ivy Smith,Headache,14
-296,Emma Wilson,Fever,14
-86,Bob Miller,Fever,14
-94,Bob Moore,Injury,14
-179,Charlie Wilson,Routine Checkup,14
-348,Fiona Williams,Allergy,14
-310,Fiona Davis,Injury,14
-324,Fiona Miller,Allergy,14
-503,Ivy Jones,Routine Checkup,14
-492,Ivy Johnson,Allergy,14
-125,Charlie Brown,Routine Checkup,14
-128,Charlie Davis,Fever,14
-488,Ivy Davis,Fever,14
-498,Ivy Jones,Allergy,14
-329,Fiona Miller,Routine Checkup,14
-136,Charlie Johnson,Injury,14
-314,Fiona Johnson,Fever,14
-163,Charlie Taylor,Cough,14
-313,Fiona Johnson,Cough,14
-474,Hannah Wilson,Allergy,14
-506,Ivy Miller,Fever,14
-508,Ivy Miller,Injury,14
-150,Charlie Moore,Allergy,14
-513,Ivy Moore,Headache,14
-340,Fiona Smith,Injury,14
-191,David Davis,Routine Checkup,14
-322,Fiona Jones,Injury,14
-529,Ivy Williams,Cough,14
-419,George Wilson,Routine Checkup,14
-213,David Moore,Headache,14
-570,Jack Moore,Allergy,14
-414,George Wilson,Allergy,14
-62,Bob Brown,Fever,14
-269,Emma Miller,Routine Checkup,14
-61,Bob Brown,Cough,14
-407,George Taylor,Routine Checkup,14
-263,Emma Jones,Routine Checkup,14
-261,Emma Jones,Headache,14
-258,Emma Jones,Allergy,14
-39,Alice Smith,Headache,14
-233,David Williams,Routine Checkup,14
-553,Jack Johnson,Cough,14
-246,Emma Davis,Allergy,14
-560,Jack Jones,Fever,14
-417,George Wilson,Headache,14
-275,Emma Moore,Routine Checkup,14
-428,Hannah Davis,Fever,14
-209,David Miller,Routine Checkup,14
-426,Hannah Davis,Allergy,14
-75,Bob Johnson,Headache,14
-353,Fiona Williams,Routine Checkup,14
-358,Fiona Wilson,Injury,14
-435,Hannah Johnson,Headache,14
-537,Ivy Wilson,Headache,14
-73,Bob Johnson,Cough,14
-204,David Miller,Allergy,14
-550,Jack Davis,Injury,13
-58,Alice Wilson,Injury,13
-28,Alice Miller,Injury,13
-594,Jack Wilson,Allergy,13
-2,Alice Brown,Fever,13
-499,Ivy Jones,Cough,13
-524,Ivy Taylor,Fever,13
-93,Bob Moore,Headache,13
-558,Jack Jones,Allergy,13
-591,Jack Williams,Headache,13
-504,Ivy Miller,Allergy,13
-522,Ivy Taylor,Allergy,13
-545,Jack Brown,Routine Checkup,13
-539,Ivy Wilson,Routine Checkup,13
-577,Jack Smith,Cough,13
-589,Jack Williams,Cough,13
-117,Bob Wilson,Headache,13
-33,Alice Moore,Headache,13
-512,Ivy Moore,Fever,13
-76,Bob Johnson,Injury,13
-584,Jack Taylor,Fever,13
-16,Alice Johnson,Injury,13
-574,Jack Moore,Injury,13
-46,Alice Taylor,Injury,13
-166,Charlie Taylor,Injury,13
-232,David Williams,Injury,13
-451,Hannah Moore,Cough,13
-187,David Davis,Cough,13
-446,Hannah Miller,Fever,13
-436,Hannah Johnson,Injury,13
-210,David Moore,Allergy,13
-424,Hannah Brown,Injury,13
-420,Hannah Brown,Allergy,13
-406,George Taylor,Injury,13
-402,George Taylor,Allergy,13
-401,George Smith,Routine Checkup,13
-400,George Smith,Injury,13
-236,David Wilson,Fever,13
-386,George Miller,Fever,13
-248,Emma Davis,Fever,13
-377,George Johnson,Routine Checkup,13
-271,Emma Moore,Cough,13
-279,Emma Smith,Headache,13
-291,Emma Williams,Headache,13
-347,Fiona Taylor,Routine Checkup,13
-343,Fiona Taylor,Cough,13
-320,Fiona Jones,Fever,13
-325,Fiona Miller,Cough,13
-448,Hannah Miller,Injury,13
-599,Jack Wilson,Routine Checkup,13
-487,Ivy Davis,Cough,13
-469,Hannah Williams,Cough,13
-143,Charlie Jones,Routine Checkup,13
-521,Ivy Smith,Routine Checkup,12
-241,Emma Brown,Cough,12
-369,George Davis,Headache,12
-238,David Wilson,Injury,12
-471,Hannah Williams,Headache,12
-147,Charlie Miller,Headache,12
-396,George Smith,Allergy,12
-113,Bob Williams,Routine Checkup,12
-549,Jack Davis,Headache,12
-575,Jack Moore,Routine Checkup,12
-26,Alice Miller,Fever,12
-546,Jack Davis,Allergy,12
-385,George Miller,Cough,12
-495,Ivy Johnson,Headache,12
-17,Alice Johnson,Routine Checkup,12
-530,Ivy Williams,Fever,12
-199,David Jones,Cough,12
-336,Fiona Smith,Allergy,12
-455,Hannah Moore,Routine Checkup,12
-459,Hannah Smith,Headache,12
-333,Fiona Moore,Headache,12
-194,David Johnson,Fever,12
-172,Charlie Williams,Injury,12
-188,David Davis,Fever,12
-367,George Davis,Cough,11
-598,Jack Wilson,Injury,11
-479,Hannah Wilson,Routine Checkup,11
-272,Emma Moore,Fever,11
-497,Ivy Johnson,Routine Checkup,11
-596,Jack Wilson,Fever,11
-339,Fiona Smith,Headache,11
-328,Fiona Miller,Injury,11
-362,George Brown,Fever,11
-309,Fiona Davis,Headache,11
-5,Alice Brown,Routine Checkup,11
-318,Fiona Jones,Allergy,11
-502,Ivy Jones,Injury,11
-282,Emma Taylor,Allergy,11
-301,Fiona Brown,Cough,11
-566,Jack Miller,Fever,11
-174,Charlie Wilson,Allergy,11
-384,George Miller,Allergy,11
-556,Jack Johnson,Injury,11
-235,David Wilson,Cough,11
-193,David Johnson,Cough,11
-470,Hannah Williams,Fever,11
-195,David Johnson,Headache,11
-434,Hannah Johnson,Fever,11
-223,David Taylor,Cough,11
-249,Emma Davis,Headache,10
-345,Fiona Taylor,Headache,10
-182,David Brown,Fever,10
-192,David Johnson,Allergy,10
-8,Alice Davis,Fever,10
-514,Ivy Moore,Injury,10
-151,Charlie Moore,Cough,10
-215,David Moore,Routine Checkup,10
-500,Ivy Jones,Fever,10
-145,Charlie Miller,Cough,10
-227,David Taylor,Routine Checkup,10
-108,Bob Williams,Allergy,10
-366,George Davis,Allergy,10
-30,Alice Moore,Allergy,10
-580,Jack Smith,Injury,9
-119,Bob Wilson,Routine Checkup,9
-480,Ivy Brown,Allergy,9
-91,Bob Moore,Cough,9
-230,David Williams,Fever,8
-121,Charlie Brown,Cough,8
-457,Hannah Smith,Cough,8
-239,David Wilson,Routine Checkup,7
-559,Jack Jones,Cough,7
-295,Emma Wilson,Cough,7
-532,Ivy Williams,Injury,7
-477,Hannah Wilson,Headache,7
-359,Fiona Wilson,Routine Checkup,7
-440,Hannah Jones,Fever,6
+Patient,Visit_Reason,Count
+Ivy Jones,Headache,30
+Hannah Wilson,Injury,29
+David Williams,Allergy,28
+Alice Smith,Routine Checkup,28
+Ivy Taylor,Routine Checkup,28
+Hannah Moore,Fever,27
+Jack Miller,Headache,27
+George Moore,Allergy,27
+Alice Miller,Routine Checkup,27
+David Davis,Allergy,27
+Hannah Taylor,Headache,26
+David Smith,Headache,26
+Emma Miller,Headache,25
+David Moore,Injury,25
+Fiona Brown,Routine Checkup,25
+Hannah Johnson,Cough,25
+Hannah Moore,Allergy,25
+Emma Williams,Fever,25
+Ivy Miller,Headache,25
+Charlie Taylor,Headache,25
+Charlie Davis,Routine Checkup,25
+Hannah Williams,Allergy,25
+Jack Moore,Cough,25
+Charlie Moore,Fever,25
+George Williams,Cough,24
+George Jones,Headache,24
+Jack Davis,Routine Checkup,24
+David Davis,Headache,24
+David Brown,Injury,24
+Bob Taylor,Cough,24
+Ivy Miller,Cough,24
+Jack Miller,Allergy,24
+Emma Wilson,Headache,23
+Alice Wilson,Allergy,23
+Emma Wilson,Routine Checkup,23
+David Smith,Cough,23
+Jack Taylor,Headache,23
+Fiona Williams,Fever,23
+George Williams,Headache,23
+Bob Taylor,Injury,23
+Jack Davis,Cough,23
+Alice Smith,Fever,23
+Ivy Brown,Routine Checkup,23
+Emma Smith,Injury,23
+Charlie Smith,Allergy,23
+Alice Smith,Allergy,23
+Charlie Taylor,Allergy,22
+Charlie Johnson,Cough,22
+Fiona Wilson,Allergy,22
+Bob Miller,Allergy,22
+Bob Brown,Injury,22
+Emma Moore,Allergy,22
+Emma Taylor,Injury,22
+Emma Smith,Fever,22
+Charlie Miller,Injury,22
+Hannah Johnson,Routine Checkup,22
+Ivy Williams,Routine Checkup,22
+David Miller,Fever,22
+George Brown,Routine Checkup,22
+Hannah Smith,Injury,22
+George Taylor,Cough,22
+Alice Brown,Allergy,22
+Alice Miller,Headache,22
+Alice Smith,Cough,22
+Emma Jones,Fever,22
+Alice Jones,Headache,22
+Alice Williams,Fever,22
+Jack Taylor,Cough,22
+Hannah Davis,Headache,21
+Emma Davis,Routine Checkup,21
+Jack Brown,Cough,21
+Jack Taylor,Allergy,21
+George Davis,Routine Checkup,21
+Charlie Smith,Injury,21
+Emma Williams,Routine Checkup,21
+Jack Miller,Cough,21
+Ivy Davis,Injury,21
+Ivy Smith,Cough,21
+Jack Jones,Injury,21
+Fiona Taylor,Injury,21
+Alice Davis,Allergy,21
+Jack Taylor,Injury,21
+Hannah Davis,Cough,21
+Charlie Brown,Fever,21
+Hannah Smith,Allergy,21
+Charlie Williams,Headache,21
+Emma Taylor,Headache,21
+Bob Brown,Headache,21
+Bob Davis,Cough,21
+David Brown,Routine Checkup,21
+Hannah Jones,Allergy,21
+Hannah Williams,Routine Checkup,21
+Charlie Miller,Routine Checkup,21
+Alice Johnson,Fever,21
+Emma Davis,Cough,21
+Charlie Johnson,Routine Checkup,21
+Alice Johnson,Headache,21
+George Taylor,Headache,21
+Charlie Jones,Cough,21
+George Brown,Injury,21
+George Williams,Routine Checkup,21
+Jack Smith,Fever,21
+Charlie Moore,Injury,21
+Fiona Moore,Injury,21
+Fiona Smith,Fever,20
+Alice Moore,Fever,20
+Ivy Johnson,Cough,20
+Alice Brown,Injury,20
+George Jones,Cough,20
+Jack Miller,Routine Checkup,20
+Emma Johnson,Fever,20
+Ivy Davis,Allergy,20
+Bob Wilson,Cough,20
+Charlie Smith,Fever,20
+Jack Brown,Headache,20
+Emma Taylor,Routine Checkup,20
+Alice Wilson,Headache,20
+Hannah Miller,Cough,20
+David Smith,Allergy,20
+Alice Johnson,Cough,20
+Hannah Miller,Routine Checkup,20
+Jack Johnson,Fever,20
+Emma Johnson,Injury,20
+David Jones,Allergy,20
+Charlie Moore,Headache,20
+Charlie Wilson,Headache,20
+Bob Taylor,Fever,20
+Hannah Moore,Injury,20
+Charlie Williams,Fever,20
+Fiona Williams,Headache,20
+Bob Davis,Headache,20
+Emma Johnson,Routine Checkup,20
+Fiona Smith,Routine Checkup,20
+David Jones,Fever,19
+Emma Jones,Injury,19
+Emma Miller,Allergy,19
+Hannah Jones,Cough,19
+Charlie Moore,Routine Checkup,19
+David Miller,Injury,19
+George Johnson,Injury,19
+Hannah Miller,Headache,19
+Charlie Taylor,Routine Checkup,19
+David Brown,Headache,19
+David Brown,Cough,19
+David Wilson,Headache,19
+Hannah Taylor,Allergy,19
+Charlie Taylor,Fever,19
+David Taylor,Allergy,19
+George Miller,Routine Checkup,19
+George Miller,Headache,19
+David Taylor,Headache,19
+George Miller,Injury,19
+Emma Moore,Headache,19
+Emma Davis,Injury,19
+Hannah Wilson,Fever,19
+Bob Jones,Routine Checkup,19
+Alice Smith,Injury,19
+Bob Moore,Routine Checkup,19
+Ivy Taylor,Headache,19
+Alice Taylor,Cough,19
+Ivy Taylor,Injury,19
+Jack Johnson,Routine Checkup,19
+Bob Jones,Injury,19
+Ivy Moore,Allergy,19
+Alice Taylor,Routine Checkup,19
+Ivy Williams,Allergy,19
+Alice Williams,Injury,19
+Bob Jones,Allergy,19
+Jack Johnson,Allergy,19
+Fiona Davis,Allergy,19
+Bob Taylor,Routine Checkup,19
+Bob Smith,Cough,19
+Emma Williams,Allergy,19
+Bob Wilson,Fever,19
+Charlie Davis,Allergy,19
+Jack Williams,Injury,19
+Emma Johnson,Allergy,18
+George Johnson,Headache,18
+Hannah Brown,Cough,18
+George Wilson,Fever,18
+Alice Brown,Headache,18
+Jack Williams,Routine Checkup,18
+Alice Williams,Routine Checkup,18
+Jack Brown,Allergy,18
+Emma Johnson,Cough,18
+Emma Brown,Routine Checkup,18
+Emma Brown,Injury,18
+Bob Davis,Injury,18
+Alice Williams,Allergy,18
+David Williams,Headache,18
+David Smith,Routine Checkup,18
+Alice Davis,Cough,18
+George Taylor,Fever,18
+Jack Jones,Headache,18
+Jack Williams,Fever,18
+Fiona Johnson,Routine Checkup,18
+Alice Taylor,Allergy,18
+George Jones,Allergy,18
+David Miller,Cough,18
+Alice Johnson,Allergy,18
+Jack Miller,Injury,18
+Fiona Johnson,Injury,18
+Fiona Moore,Routine Checkup,18
+George Moore,Routine Checkup,18
+Ivy Wilson,Injury,18
+David Jones,Injury,18
+Ivy Smith,Fever,18
+Charlie Williams,Cough,18
+Bob Smith,Allergy,18
+Charlie Wilson,Cough,18
+Charlie Williams,Routine Checkup,18
+Bob Williams,Cough,18
+Bob Williams,Fever,18
+Bob Williams,Headache,18
+Ivy Davis,Headache,18
+Fiona Williams,Cough,18
+Fiona Jones,Routine Checkup,18
+Charlie Davis,Injury,18
+Charlie Smith,Headache,18
+Fiona Wilson,Cough,18
+Hannah Taylor,Fever,18
+Charlie Jones,Allergy,18
+Bob Moore,Fever,18
+Ivy Davis,Routine Checkup,18
+Bob Miller,Headache,18
+Emma Miller,Fever,18
+Charlie Jones,Headache,18
+George Johnson,Allergy,18
+Hannah Jones,Headache,18
+Ivy Wilson,Fever,18
+Fiona Brown,Headache,18
+Fiona Brown,Fever,18
+Fiona Taylor,Fever,18
+Emma Miller,Injury,18
+David Johnson,Routine Checkup,18
+Fiona Davis,Cough,17
+Fiona Miller,Headache,17
+Emma Johnson,Headache,17
+Emma Taylor,Cough,17
+Emma Moore,Injury,17
+Fiona Williams,Injury,17
+Fiona Moore,Cough,17
+Emma Wilson,Allergy,17
+Alice Brown,Cough,17
+Fiona Johnson,Headache,17
+Fiona Johnson,Allergy,17
+Fiona Davis,Fever,17
+Emma Miller,Cough,17
+Emma Williams,Injury,17
+Emma Wilson,Injury,17
+Fiona Taylor,Allergy,17
+Hannah Taylor,Cough,17
+George Jones,Fever,17
+Ivy Brown,Headache,17
+Charlie Davis,Headache,17
+Charlie Brown,Injury,17
+Ivy Johnson,Fever,17
+Bob Williams,Injury,17
+Bob Taylor,Headache,17
+Ivy Moore,Cough,17
+Ivy Smith,Injury,17
+Bob Smith,Fever,17
+Bob Moore,Allergy,17
+Bob Miller,Routine Checkup,17
+Bob Miller,Injury,17
+Bob Miller,Cough,17
+Bob Jones,Headache,17
+Bob Jones,Cough,17
+Bob Johnson,Routine Checkup,17
+Ivy Wilson,Cough,17
+Bob Johnson,Allergy,17
+Bob Davis,Allergy,17
+Jack Brown,Fever,17
+Alice Williams,Headache,17
+Jack Smith,Headache,17
+Alice Jones,Injury,17
+Alice Davis,Routine Checkup,17
+Alice Davis,Injury,17
+Jack Wilson,Cough,17
+Ivy Brown,Injury,17
+Bob Wilson,Allergy,17
+David Miller,Headache,17
+George Moore,Fever,17
+David Taylor,Injury,17
+David Jones,Routine Checkup,17
+David Jones,Headache,17
+David Johnson,Injury,17
+Hannah Moore,Headache,17
+David Brown,Allergy,17
+Emma Brown,Fever,17
+Hannah Taylor,Routine Checkup,17
+Emma Brown,Headache,17
+Hannah Wilson,Cough,17
+David Smith,Fever,17
+Jack Williams,Allergy,16
+George Moore,Injury,16
+Fiona Moore,Fever,16
+George Williams,Fever,16
+Jack Smith,Routine Checkup,16
+George Smith,Cough,16
+Jack Smith,Allergy,16
+Fiona Moore,Allergy,16
+Jack Moore,Headache,16
+Jack Johnson,Headache,16
+Jack Brown,Injury,16
+Ivy Brown,Cough,16
+George Williams,Injury,16
+Hannah Brown,Routine Checkup,16
+Ivy Williams,Headache,16
+Fiona Wilson,Fever,16
+Hannah Davis,Injury,16
+Hannah Jones,Injury,16
+Hannah Miller,Allergy,16
+Ivy Taylor,Cough,16
+George Davis,Injury,16
+Hannah Smith,Routine Checkup,16
+George Davis,Fever,16
+Ivy Miller,Routine Checkup,16
+George Jones,Routine Checkup,16
+Ivy Johnson,Injury,16
+Hannah Williams,Injury,16
+Fiona Miller,Fever,16
+Fiona Brown,Allergy,16
+Charlie Brown,Headache,16
+Emma Smith,Allergy,16
+Charlie Wilson,Injury,16
+Bob Smith,Headache,16
+Alice Miller,Allergy,16
+David Davis,Injury,16
+Alice Miller,Cough,16
+Alice Williams,Cough,16
+Bob Davis,Routine Checkup,16
+Emma Smith,Cough,16
+Bob Brown,Routine Checkup,16
+Charlie Wilson,Fever,16
+Alice Moore,Cough,16
+Alice Moore,Injury,16
+David Williams,Cough,16
+Alice Wilson,Routine Checkup,16
+Emma Jones,Cough,16
+Alice Taylor,Fever,16
+Alice Taylor,Headache,16
+Alice Wilson,Cough,16
+Alice Jones,Fever,16
+Bob Johnson,Fever,16
+Alice Jones,Allergy,16
+Charlie Davis,Cough,16
+Fiona Jones,Headache,16
+Charlie Smith,Cough,16
+Bob Smith,Routine Checkup,16
+Charlie Miller,Allergy,16
+Fiona Davis,Routine Checkup,16
+Bob Taylor,Allergy,16
+Charlie Johnson,Fever,16
+Bob Smith,Injury,15
+Charlie Johnson,Headache,15
+David Taylor,Fever,15
+Charlie Brown,Allergy,15
+Bob Brown,Allergy,15
+Ivy Brown,Fever,15
+George Smith,Headache,15
+Jack Davis,Fever,15
+David Smith,Injury,15
+George Smith,Fever,15
+Alice Wilson,Fever,15
+David Wilson,Allergy,15
+George Moore,Headache,15
+Charlie Johnson,Allergy,15
+Charlie Jones,Fever,15
+George Wilson,Injury,15
+Charlie Jones,Injury,15
+Bob Wilson,Injury,15
+Hannah Smith,Fever,15
+Charlie Williams,Allergy,15
+Charlie Smith,Routine Checkup,15
+Bob Jones,Fever,15
+Ivy Wilson,Allergy,15
+Hannah Taylor,Injury,15
+Hannah Johnson,Allergy,15
+Hannah Davis,Routine Checkup,15
+Charlie Miller,Fever,15
+David Moore,Cough,15
+Hannah Brown,Headache,15
+Hannah Brown,Fever,15
+David Moore,Fever,15
+Bob Davis,Fever,15
+George Wilson,Cough,15
+George Moore,Cough,15
+George Williams,Allergy,15
+Emma Taylor,Fever,15
+Alice Moore,Routine Checkup,15
+Jack Moore,Fever,15
+George Brown,Cough,15
+George Brown,Allergy,15
+Emma Brown,Allergy,15
+Fiona Smith,Cough,15
+George Johnson,Cough,15
+George Johnson,Fever,15
+Alice Davis,Headache,15
+George Brown,Headache,15
+Fiona Wilson,Headache,15
+Jack Taylor,Routine Checkup,15
+Fiona Jones,Cough,15
+George Jones,Injury,15
+Emma Williams,Cough,15
+Jack Wilson,Headache,15
+Jack Jones,Routine Checkup,15
+Emma Smith,Routine Checkup,15
+Hannah Jones,Routine Checkup,14
+Ivy Moore,Routine Checkup,14
+Fiona Brown,Injury,14
+Ivy Smith,Allergy,14
+Alice Jones,Routine Checkup,14
+Alice Jones,Cough,14
+Ivy Smith,Headache,14
+Emma Wilson,Fever,14
+Bob Miller,Fever,14
+Bob Moore,Injury,14
+Charlie Wilson,Routine Checkup,14
+Fiona Williams,Allergy,14
+Fiona Davis,Injury,14
+Fiona Miller,Allergy,14
+Ivy Jones,Routine Checkup,14
+Ivy Johnson,Allergy,14
+Charlie Brown,Routine Checkup,14
+Charlie Davis,Fever,14
+Ivy Davis,Fever,14
+Ivy Jones,Allergy,14
+Fiona Miller,Routine Checkup,14
+Charlie Johnson,Injury,14
+Fiona Johnson,Fever,14
+Charlie Taylor,Cough,14
+Fiona Johnson,Cough,14
+Hannah Wilson,Allergy,14
+Ivy Miller,Fever,14
+Ivy Miller,Injury,14
+Charlie Moore,Allergy,14
+Ivy Moore,Headache,14
+Fiona Smith,Injury,14
+David Davis,Routine Checkup,14
+Fiona Jones,Injury,14
+Ivy Williams,Cough,14
+George Wilson,Routine Checkup,14
+David Moore,Headache,14
+Jack Moore,Allergy,14
+George Wilson,Allergy,14
+Bob Brown,Fever,14
+Emma Miller,Routine Checkup,14
+Bob Brown,Cough,14
+George Taylor,Routine Checkup,14
+Emma Jones,Routine Checkup,14
+Emma Jones,Headache,14
+Emma Jones,Allergy,14
+Alice Smith,Headache,14
+David Williams,Routine Checkup,14
+Jack Johnson,Cough,14
+Emma Davis,Allergy,14
+Jack Jones,Fever,14
+George Wilson,Headache,14
+Emma Moore,Routine Checkup,14
+Hannah Davis,Fever,14
+David Miller,Routine Checkup,14
+Hannah Davis,Allergy,14
+Bob Johnson,Headache,14
+Fiona Williams,Routine Checkup,14
+Fiona Wilson,Injury,14
+Hannah Johnson,Headache,14
+Ivy Wilson,Headache,14
+Bob Johnson,Cough,14
+David Miller,Allergy,14
+Jack Davis,Injury,13
+Alice Wilson,Injury,13
+Alice Miller,Injury,13
+Jack Wilson,Allergy,13
+Alice Brown,Fever,13
+Ivy Jones,Cough,13
+Ivy Taylor,Fever,13
+Bob Moore,Headache,13
+Jack Jones,Allergy,13
+Jack Williams,Headache,13
+Ivy Miller,Allergy,13
+Ivy Taylor,Allergy,13
+Jack Brown,Routine Checkup,13
+Ivy Wilson,Routine Checkup,13
+Jack Smith,Cough,13
+Jack Williams,Cough,13
+Bob Wilson,Headache,13
+Alice Moore,Headache,13
+Ivy Moore,Fever,13
+Bob Johnson,Injury,13
+Jack Taylor,Fever,13
+Alice Johnson,Injury,13
+Jack Moore,Injury,13
+Alice Taylor,Injury,13
+Charlie Taylor,Injury,13
+David Williams,Injury,13
+Hannah Moore,Cough,13
+David Davis,Cough,13
+Hannah Miller,Fever,13
+Hannah Johnson,Injury,13
+David Moore,Allergy,13
+Hannah Brown,Injury,13
+Hannah Brown,Allergy,13
+George Taylor,Injury,13
+George Taylor,Allergy,13
+George Smith,Routine Checkup,13
+George Smith,Injury,13
+David Wilson,Fever,13
+George Miller,Fever,13
+Emma Davis,Fever,13
+George Johnson,Routine Checkup,13
+Emma Moore,Cough,13
+Emma Smith,Headache,13
+Emma Williams,Headache,13
+Fiona Taylor,Routine Checkup,13
+Fiona Taylor,Cough,13
+Fiona Jones,Fever,13
+Fiona Miller,Cough,13
+Hannah Miller,Injury,13
+Jack Wilson,Routine Checkup,13
+Ivy Davis,Cough,13
+Hannah Williams,Cough,13
+Charlie Jones,Routine Checkup,13
+Ivy Smith,Routine Checkup,12
+Emma Brown,Cough,12
+George Davis,Headache,12
+David Wilson,Injury,12
+Hannah Williams,Headache,12
+Charlie Miller,Headache,12
+George Smith,Allergy,12
+Bob Williams,Routine Checkup,12
+Jack Davis,Headache,12
+Jack Moore,Routine Checkup,12
+Alice Miller,Fever,12
+Jack Davis,Allergy,12
+George Miller,Cough,12
+Ivy Johnson,Headache,12
+Alice Johnson,Routine Checkup,12
+Ivy Williams,Fever,12
+David Jones,Cough,12
+Fiona Smith,Allergy,12
+Hannah Moore,Routine Checkup,12
+Hannah Smith,Headache,12
+Fiona Moore,Headache,12
+David Johnson,Fever,12
+Charlie Williams,Injury,12
+David Davis,Fever,12
+George Davis,Cough,11
+Jack Wilson,Injury,11
+Hannah Wilson,Routine Checkup,11
+Emma Moore,Fever,11
+Ivy Johnson,Routine Checkup,11
+Jack Wilson,Fever,11
+Fiona Smith,Headache,11
+Fiona Miller,Injury,11
+George Brown,Fever,11
+Fiona Davis,Headache,11
+Alice Brown,Routine Checkup,11
+Fiona Jones,Allergy,11
+Ivy Jones,Injury,11
+Emma Taylor,Allergy,11
+Fiona Brown,Cough,11
+Jack Miller,Fever,11
+Charlie Wilson,Allergy,11
+George Miller,Allergy,11
+Jack Johnson,Injury,11
+David Wilson,Cough,11
+David Johnson,Cough,11
+Hannah Williams,Fever,11
+David Johnson,Headache,11
+Hannah Johnson,Fever,11
+David Taylor,Cough,11
+Emma Davis,Headache,10
+Fiona Taylor,Headache,10
+David Brown,Fever,10
+David Johnson,Allergy,10
+Alice Davis,Fever,10
+Ivy Moore,Injury,10
+Charlie Moore,Cough,10
+David Moore,Routine Checkup,10
+Ivy Jones,Fever,10
+Charlie Miller,Cough,10
+David Taylor,Routine Checkup,10
+Bob Williams,Allergy,10
+George Davis,Allergy,10
+Alice Moore,Allergy,10
+Jack Smith,Injury,9
+Bob Wilson,Routine Checkup,9
+Ivy Brown,Allergy,9
+Bob Moore,Cough,9
+David Williams,Fever,8
+Charlie Brown,Cough,8
+Hannah Smith,Cough,8
+David Wilson,Routine Checkup,7
+Jack Jones,Cough,7
+Emma Wilson,Cough,7
+Ivy Williams,Injury,7
+Hannah Wilson,Headache,7
+Fiona Wilson,Routine Checkup,7
+Hannah Jones,Fever,6
