@@ -45,3 +45,9 @@
 2023-08-30 14:59:07,665 - INFO - calculations.csv has been loaded successfully.
 2023-08-30 14:59:08,764 - INFO - The data has been saved successfully to patients_visit_reasons.csv.
 2023-08-30 14:59:08,772 - INFO - The data has been saved successfully to visit_reason_counts.csv.
+2023-08-30 15:14:12,724 - INFO - visit_data.csv has been loaded successfully.
+2023-08-30 15:14:12,734 - INFO - Duplicates have been dropped successfully.
+2023-08-30 15:14:12,749 - INFO - The data has been saved successfully to calculations.csv.
+2023-08-30 15:14:12,963 - INFO - calculations.csv has been loaded successfully.
+2023-08-30 15:14:13,962 - INFO - The data has been saved successfully to patients_visit_reasons.csv.
+2023-08-30 15:14:13,970 - INFO - The data has been saved successfully to visit_reason_counts.csv.
