@@ -4,3 +4,44 @@
 2023-08-30 13:28:41,246 - INFO - calculations.csv has been loaded successfully.
 2023-08-30 13:28:41,340 - INFO - The data has been saved successfully to patients_visit_reasons.csv.
 2023-08-30 13:28:41,349 - INFO - The data has been saved successfully to visit_reason_counts.csv.
+2023-08-30 13:39:17,859 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2023-08-30 13:39:17,866 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2023-08-30 13:48:29,312 - INFO - visit_data.csv has been loaded successfully.
+2023-08-30 13:48:29,316 - INFO - Duplicates have been dropped successfully.
+2023-08-30 13:48:29,330 - INFO - The data has been saved successfully to calculations.csv.
+2023-08-30 13:48:29,519 - INFO - calculations.csv has been loaded successfully.
+2023-08-30 13:48:29,631 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2023-08-30 13:48:29,635 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2023-08-30 13:48:30,167 - INFO - The data has been saved successfully to patients_visit_reasons.csv.
+2023-08-30 13:48:30,175 - INFO - The data has been saved successfully to visit_reason_counts.csv.
+2023-08-30 14:40:33,380 - INFO - visit_data.csv has been loaded successfully.
+2023-08-30 14:40:33,386 - INFO - Duplicates have been dropped successfully.
+2023-08-30 14:40:33,401 - INFO - The data has been saved successfully to calculations.csv.
+2023-08-30 14:40:33,614 - INFO - calculations.csv has been loaded successfully.
+2023-08-30 14:42:22,116 - INFO - visit_data.csv has been loaded successfully.
+2023-08-30 14:42:22,118 - INFO - Duplicates have been dropped successfully.
+2023-08-30 14:42:22,132 - INFO - The data has been saved successfully to calculations.csv.
+2023-08-30 14:43:05,582 - INFO - visit_data.csv has been loaded successfully.
+2023-08-30 14:43:05,585 - INFO - Duplicates have been dropped successfully.
+2023-08-30 14:43:05,599 - INFO - The data has been saved successfully to calculations.csv.
+2023-08-30 14:45:20,676 - INFO - visit_data.csv has been loaded successfully.
+2023-08-30 14:45:20,682 - INFO - Duplicates have been dropped successfully.
+2023-08-30 14:45:20,698 - INFO - The data has been saved successfully to calculations.csv.
+2023-08-30 14:49:11,234 - INFO - visit_data.csv has been loaded successfully.
+2023-08-30 14:49:11,242 - INFO - Duplicates have been dropped successfully.
+2023-08-30 14:49:11,257 - INFO - The data has been saved successfully to calculations.csv.
+2023-08-30 14:49:11,420 - INFO - calculations.csv has been loaded successfully.
+2023-08-30 14:51:23,969 - INFO - visit_data.csv has been loaded successfully.
+2023-08-30 14:51:23,984 - INFO - Duplicates have been dropped successfully.
+2023-08-30 14:51:24,019 - INFO - The data has been saved successfully to calculations.csv.
+2023-08-30 14:51:24,216 - INFO - calculations.csv has been loaded successfully.
+2023-08-30 14:56:51,232 - INFO - visit_data.csv has been loaded successfully.
+2023-08-30 14:56:51,249 - INFO - Duplicates have been dropped successfully.
+2023-08-30 14:56:51,269 - INFO - The data has been saved successfully to calculations.csv.
+2023-08-30 14:56:51,460 - INFO - calculations.csv has been loaded successfully.
+2023-08-30 14:59:07,465 - INFO - visit_data.csv has been loaded successfully.
+2023-08-30 14:59:07,475 - INFO - Duplicates have been dropped successfully.
+2023-08-30 14:59:07,490 - INFO - The data has been saved successfully to calculations.csv.
+2023-08-30 14:59:07,665 - INFO - calculations.csv has been loaded successfully.
+2023-08-30 14:59:08,764 - INFO - The data has been saved successfully to patients_visit_reasons.csv.
+2023-08-30 14:59:08,772 - INFO - The data has been saved successfully to visit_reason_counts.csv.
